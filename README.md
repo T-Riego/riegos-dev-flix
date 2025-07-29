@@ -1,6 +1,6 @@
 # 🎬 Riegos-Dev Flix: Sua Plataforma de Filmes Interativa
 
-![Capa do Projeto - Riegos-Dev Flix](https://via.placeholder.com/1200x600/000000/FFFFFF?text=Riegos-Dev+Flix)
+
 ## ✨ Uma Jornada de Aprendizado no Desenvolvimento Front-end
 
 O **Riegos-Dev Flix** é um projeto desenvolvido como um marco fundamental em meu aprendizado com React, construído a partir das valiosas aulas do curso de React da Udemy. Este projeto não apenas solidificou conceitos essenciais do desenvolvimento front-end, mas também me desafiou a implementar funcionalidades robustas e uma experiência de usuário intuitiva.
