@@ -109,4 +109,4 @@ Contribuições são bem-vindas! Se você tiver sugestões ou quiser melhorar o 
 Tiago Riego Dias Ribeiro
 * **Email:** [tiagoriegodevjobs@gmail.com] (mailto:tiagoriegodevjobs@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/tiagoriegodr](https://www.linkedin.com/in/tiagoriegodr)
-* **Portfólio (se tiver):** [https://riegos.dev](https://riegos.dev)
+* **Portfólio:** [https://riegos.dev](https://riegos.dev)
