@@ -104,15 +104,9 @@ Contribuições são bem-vindas! Se você tiver sugestões ou quiser melhorar o 
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
-
----
-
 ## ✉️ Contato
 
-* **Seu Nome Completo**
+Tiago Riego Dias Ribeiro
 * **Email:** [tiagoriegodevjobs@gmail.com] (mailto:tiagoriegodevjobs@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/tiagoriegodr](https://www.linkedin.com/in/tiagoriegodr)
 * **Portfólio (se tiver):** [https://riegos.dev](https://riegos.dev)
